@@ -18,4 +18,3 @@ if h > 40 :
   print(overtimeTotal)
 else :
   print("Your pay for the week is:", h * r)
-  
