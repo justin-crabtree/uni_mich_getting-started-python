@@ -5,6 +5,9 @@
 
 # print(result)
 
-friends = [ 'Joseph', 'Glenn', 'Sally' ]
-friends.sort()
-print(friends[0])
+# friends = [ 'Joseph', 'Glenn', 'Sally' ]
+# friends.sort()
+# print(friends[0])
+
+stuff = dict()
+print(stuff.get('candy', -1))
